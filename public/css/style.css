@@ -1,0 +1,49 @@
+.bg-image {
+    background-image: url('../img/infinite-loop-01.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bg-image1 {
+    background-image: url('../img/infinite-loop-02.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bg-image2 {
+    background-image: url('../img/infinite-loop-03.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bg-shadow {
+    background-color: rgba(0, 0, 0, .3);
+}
+.header-margin-bottom {
+    margin-bottom: 5rem;
+}
+
+.header-margin-top {
+    margin-top: -5rem;
+}
+.bg-transparent {
+    background: transparent;
+}
+::placeholder {
+    color: white;
+}
+.text-bg-yellow{
+    color: white;
+    background: transparent;
+ 
+}
+.text-bg-yellow:hover{
+    background-color: red;
+    color: white;
+    transition: all 0.5s ease;
+    
+}
