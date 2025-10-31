@@ -18,7 +18,7 @@
             </div>
         </div>
         <div class="display-4 fw-bold text-center">
-            Browse by Category
+            Browse by C
         </div>
         <div class="row">
             @foreach ($categories as $category)
